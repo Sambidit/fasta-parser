@@ -38,7 +38,7 @@ def read_fasta(file_path):
     seq_id = None
     seq = ""
     try:
-        with open(file_path, ' 'r') as f:
+        with open(file_path, 'r') as f:
             for line in f:
                 line = line.strip()
                 if line.startswith(">"):
