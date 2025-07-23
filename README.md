@@ -21,4 +21,4 @@ A Python-based tool to parse and analyze DNA sequences from FASTA files.
 2. Place your `.fasta` file in the folder (e.g., `sample.fasta`)
 3. Run:
    ```bash
-   python fasta_parser_final.py sample.fasta
+   python fasta_parser.py sample.fasta
