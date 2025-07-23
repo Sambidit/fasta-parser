@@ -80,7 +80,7 @@ def process_fasta(data):
         print(f"AT Content: {result['AT_Content(%)']} %")
         print(f"Base Counts: A={result['A_Count']} T={result['T_Count']} G={result['G_Count']} C={result['C_Count']} N={result['N_Count']}")
         print(f"Melting Temp: {result['Melting_Temp(°C)']} °C")
-        print(f"Reverse Complement: {result['Reverse_Complement']}
+        print(f"Reverse Complement: {result['Reverse_Complement']}\n")
 ")
     return results
 
