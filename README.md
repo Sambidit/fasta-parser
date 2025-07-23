@@ -46,7 +46,7 @@ Unknown bases (N): 9
 
 ---
 
-### 🛠Tools Used
+### Tools Used
 - Python 3
 - No external libraries
 
